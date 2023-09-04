@@ -1,2 +1,4 @@
 forge-std/=lib/forge-std/src/
 @chainlink/=lib/chainlink-brownie-contracts/contracts/src/
+@layerzero-contracts/=lib/solidity-examples/contracts/
+@openzeppelin/=lib/openzeppelin-contracts/
