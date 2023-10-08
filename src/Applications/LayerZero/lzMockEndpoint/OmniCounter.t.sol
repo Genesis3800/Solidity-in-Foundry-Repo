@@ -5,7 +5,7 @@ pragma solidity ^0.8.19;
 import {Test, console2} from "forge-std/Test.sol";
 
 //Imports to use the LayerZero contracts
-import {LZEndpointMock} from "@layerzero-contracts/mocks/LZEndpointMock.sol";
+import {LZEndpointMock} from "@layerzero-contracts/lzApp/mocks/LZEndpointMock.sol";
 import {OmniCounter_Sepolia} from "./OmniCounter_Sepolia.sol";
 import {OmniCounter_Mumbai} from "./OmniCounter_Mumbai.sol";
 
