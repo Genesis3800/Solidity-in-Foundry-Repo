@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.21;
 
 //Imports to use Foundry's testing and logging suite
 import {Test, console2} from "forge-std/Test.sol";

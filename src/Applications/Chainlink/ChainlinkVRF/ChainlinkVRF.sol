@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.21;
 
 // Importing Chainlink VRF interfaces for secure randomness generation
 import "@chainlink/v0.8/interfaces/VRFCoordinatorV2Interface.sol";

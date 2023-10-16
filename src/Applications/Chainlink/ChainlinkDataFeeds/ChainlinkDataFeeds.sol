@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.21;
 
 // Importing the Chainlink Aggregator interface to interact with Chainlink price feeds.
 import "@chainlink/v0.8/interfaces/AggregatorV3Interface.sol";
