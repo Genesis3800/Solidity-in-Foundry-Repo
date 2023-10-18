@@ -4,3 +4,5 @@ forge-std/=lib/forge-std/src/
 
 @openzeppelin/contracts/=lib/solidity-examples/node_modules/@openzeppelin/contracts/
 @openzeppelinV5/=lib/openzeppelin-contracts/
+@sablier/v2-core=lib/v2-core/src
+@sablier/v2-periphery=lib/v2-periphery/src
